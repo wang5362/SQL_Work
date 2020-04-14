@@ -2,7 +2,7 @@
 
 ### Background Information 
 Hi, Welcome to my Github page - SQL code section.
-I will show one sample assignment code and one sample midterm exam code to showcase my intermediate SQL knowledge.
+I will showcase one sample assignment and sample midterm exam code to demonstrate my intermediate SQL knowledge.
 
 ### Language Used 
 - MySQL
