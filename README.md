@@ -1,5 +1,5 @@
-# SQL Work
-
+## SQL 
+--- 
 ### Background Information 
 Hi, Welcome to my Github page - SQL code section.
 I will show one sample assignment code and one sample midterm exam code to showcase my intermediate SQL knowledge.
